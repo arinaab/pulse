@@ -1,0 +1,28 @@
+.feed-form {
+    margin-top: 36px;
+    display: flex;
+    flex-direction: column;
+    width: 303px;
+    input {
+        height: 54px;
+        background: #FFFFFF;
+        border-radius: 5px;
+        margin-bottom: 11px;
+        border: none;
+        padding: 0 20px;
+        font-weight: normal;
+        font-size: 14px;
+        color: #4B4B4B; 
+        outline: 0;
+        &:nth-child(3) {
+            margin-bottom: 17px;
+        }
+        &:focus {  
+            box-shadow: 2px 2px 3px #FFFFFF;
+        }
+        
+    }
+    &_mt25 {
+        margin-top: 25px;
+    }
+}
