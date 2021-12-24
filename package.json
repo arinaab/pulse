@@ -1,5 +1,5 @@
 {
-  "name": "project_uber",
+  "name": "project_pulse",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arinaab/uber_first.git"
+    "url": "git+https://github.com/arinaab/pulse.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/arinaab/uber_first/issues"
+    "url": "https://github.com/arinaab/pulse/issues"
   },
-  "homepage": "https://github.com/arinaab/uber_first#readme",
+  "homepage": "https://github.com/arinaab/pulse#readme",
   "devDependencies": {
     "browser-sync": "^2.27.7",
     "gulp": "^4.0.2",
