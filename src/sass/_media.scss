@@ -389,6 +389,7 @@
         }
     }
     .modal {
+        max-height: 350px;
         width: 270px;
         padding: 20px 12px 11px 12px;
         &__subtitle {
@@ -411,6 +412,9 @@
             right: -22px;
             font-size: 30px;
         }
+    }
+    .error {
+        font-size: 12px;
     }
     
 }
